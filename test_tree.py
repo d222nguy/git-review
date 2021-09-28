@@ -1,4 +1,4 @@
-#Non-recursive definition
+#Non-recursive definition, right?
 class Node:
     def __init__(self, key, children = []):
         self.key = key
